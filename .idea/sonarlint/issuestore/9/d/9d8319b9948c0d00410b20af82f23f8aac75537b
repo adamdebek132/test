@@ -1,0 +1,14 @@
+
+k	java:S116"VRename this field "timer_sound" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¿‚œ
+p
+java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ
+t
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ
+X	java:S125@"<This block of commented-out lines of code should be removed.(´š¾ã8É¦úœÌ/
+]	java:S125o"<This block of commented-out lines of code should be removed.(ÈŒèâüÿÿÿÿ8ÌôæœÌ/
+P
+java:S1068".Remove this unused "nextButton" private field.(º€ü‰ùÿÿÿÿ8¹ºåœÌ/
+J
+java:S1604Z"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ8æĞµœÌ/
+E
+java:S1604e"(Make this anonymous inner class a lambda(éäó‚8æĞµœÌ/
